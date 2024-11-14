@@ -7,6 +7,4 @@ protocol:
   shadowsocks,
   trojan
 
-Todo
-1.support macos, linux
 
